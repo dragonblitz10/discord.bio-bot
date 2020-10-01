@@ -1,14 +1,14 @@
 {
   "name": "discord.bio",
   "version": "2.0.0",
-  "description": "A Discord bot that integrates with discord.bio.",
+  "description": "A Discord bot that integrates with discord.bio or used too",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venoras/discord.bio-bot.git"
+    "url": "git+https://github.com/dragonblitz10/discord.bio-bot.git"
   },
   "author": ["ven", "dragon"],
   "license": "ISC",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dragonblitz10/discord.bio-bot#readme",
   "dependencies": {
-    "@aero/centra": "^1.0.3",
+    "@aero/centra": "1.0.3",
     "@aero/eslint-config": "^1.0.1",
     "breadtags": "github:Soumil07/bread-tags",
     "color-thief": "^2.2.5",
